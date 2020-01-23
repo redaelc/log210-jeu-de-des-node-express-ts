@@ -10,21 +10,22 @@ démonstrations; et ainsi de suite pour l'itération. -->
 
 | Étape jalon          | Date |
 | -------------------- | ---: |
-| Début de l'itération |      |
+| Début de l'itération |23/01/2019|
 | Devoir 1             |      |
-| Fin de l'itération   |      |
+| Fin de l'itération   |13/01/2020|
 
 ## Objectifs clés
 
 <!-- Afficher les objectifs clés pour l'itération, généralement un à cinq.
 En voici des exemples. -->
 
-*(exemples)*
-
--   Résoudre les problèmes de la dernière itération soulevés par le
-    chargé de laboratoire.
-
--   Présenter une démonstration technique.
+-   Réaliser les MDD pour les cas d'utilisations CU01, CU02, CU04.
+-   Réaliser les DSS pour les cas d'utilisations CU01, CU02, CU04.
+-   Réaliser les Contrats pour les cas d'utilisations CU01, CU02, CU04.
+-   Réaliser les RDCU pour les cas d'utilisations CU01, CU02, CU04.
+-   Implémenter les tests pour les cas d'utilisations CU01, CU02, CU04.
+-   Implémenter les cas d'utilisations CU01, CU02, CU04.
+-   Rédiger la documentation.
 
 ## Affectations d'éléments de travail
 
@@ -37,14 +38,14 @@ Les éléments de travail suivants seront abordés dans cette itération:
  
 | Nom / Description                | Priorité | [Taille estimée (points)](#commentEstimer "Comment estimer?") | Assigné à (nom) | Documents de référence |
 | -------------------------------- | -------: | --------------------------: | --------------- | ---------------------- |
-| CU06                             | 1        | 4                           | (tous)          | Exigences pour le lab  |
-|   CU06 - conception                |          |                             | Jacques-Éric    |                        |
-|   CU06 - test et implémenation     |          |                             | Hélène          |                        |
-|   CU06 - mise à jour documentation |          |                             | Pierre          |                        |
+| CU01                             | 1        | 4                           | (tous)          | Exigences pour le lab  |
+|   CU01 - conception                |          |                              |Reda, Yassin, Chih Jo, Jérémie, Ly|                        |
+|   CU01 - test et implémenation     |          |                             | Reda, Yassin, Chih Jo, Jérémie, Ly|                        |
+|   CU01 - mise à jour documentation |          |                             | Reda, Yassin, Chih Jo, Jérémie, Ly|                        |
 | CU07                             | 1        | 2                           | (tous)          | Exigences pour le lab  |
-| CU07 - conception                |          |                             | Jérémie         |                        |
-| CU07 - test et implémenation     |          |                             | Hélène          |                        |
-| CU07 - mise à jour documentation |          |                             | Pierre          |                        |
+| CU07 - conception                |          |                             |Reda, Yassin, Chih Jo, Jérémie, Ly|                        |
+| CU07 - test et implémenation     |          |                             |Reda, Yassin, Chih Jo, Jérémie, Ly|                        |
+| CU07 - mise à jour documentation |          |                             |Reda, Yassin, Chih Jo, Jérémie, Ly|                        |
 
 ## Problèmes
 
